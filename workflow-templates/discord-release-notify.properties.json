@@ -1,0 +1,6 @@
+{
+  "name": "Discord Release Notification",
+  "description": "Posts to Discord when a release is published",
+  "iconName": "bell-fill",
+  "categories": ["Automation"]
+}
